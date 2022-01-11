@@ -1,0 +1,30 @@
+
+
+
+.container_with_margin{
+    display: flex;
+    
+}
+
+.box_with_margin{
+    background-color: white;
+    width: 200px;
+    height: 200px;
+    margin-right: 20px;
+
+}
+
+
+
+.container_with_gap{
+    display: flex;
+    gap: 20px;
+}
+
+.box{
+    background-color: white;
+    width: 200px;
+    height: 200px;
+
+}
+
